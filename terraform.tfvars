@@ -1,3 +1,3 @@
-build_project_id        = "bogota-bod-build"
-environments_project_id = "bogota-bod"
+build_project_id        = "julian-build"
+environments_project_id = "julian-app-361819"
 deploy_infra            = true
